@@ -1,0 +1,3 @@
+Firsh line
+Second line
+>>>>>>> d9814b4 (First commit from new.branch)
